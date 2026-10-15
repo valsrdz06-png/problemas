@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(174, 211, 245);
+     margin: 0;
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+.contenedor{
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 8px;
+    background: rgb(198, 218, 240);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1,
+h2,
+h2{
+    color: #333;
+}
+p{
+    color: #555;
+}
+img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 10 px 0;
+}
+
+.resultado{
+    font-weight: bold;
+    color: #9b2626;
+}
+button{
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    background: #0060c7;
+    color: #fff;
+    cursor: pointer;
+}
+button:hover{
+    background: #0056b3;
+}
